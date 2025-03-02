@@ -1,0 +1,16 @@
+{
+  "name": "Telegram Forwarder",
+  "version": "1.0.0",
+  "slug": "telegram_forwarder",
+  "description": "Egy add-on, amely a Telethon segítségével továbbítja a Telegram üzeneteket.",
+  "startup": "services",
+  "boot": "auto",
+  "options": {},
+  "schema": {},
+  "arch": [
+    "armhf",
+    "armv7",
+    "aarch64",
+    "amd64"
+  ]
+}
